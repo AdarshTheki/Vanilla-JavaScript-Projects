@@ -12,19 +12,19 @@ This repository contains a collection of small projects developed using **Vanill
 
 ## Projects
 
-1. [Quiz App](./quiz-app): A simple quiz application where users can test their knowledge by answering multiple-choice questions.
+1. [Quiz App](./quiz-app/): A simple quiz application where users can test their knowledge by answering multiple-choice questions.
 
 2. [Restaurant Menu](./restaurant-menu): A web application that displays a restaurant menu, allows users to filter dishes, and add items to their cart for ordering.
 
 3. [Countdown Timer](./countdown-timer): An app that allows users to set a specific time duration and count down the time remaining.
 
-4. [Task Manager](./task-manager): A task manager application where users can add, update, and delete tasks.
+4. [Task Manager](./task-manager-app): A task manager application where users can add, update, and delete tasks.
 
-5. [Weather App](./weather-app): An app that provides current weather information for a specific location using an API.
+5. [Weather App](./weather%20app%20with%20API/): An app that provides current weather information for a specific location using an API.
 
-6. [Todo List](./todo-list): A simple todo list application that allows users to manage their tasks.
+6. [Todo List](./note-taking-app/): A simple todo list application that allows users to manage their tasks.
 
-7. [Calculator](./calculator): A basic calculator that performs arithmetic operations on numbers.
+7. [Calculator](./calculators-app): A basic calculator that performs arithmetic operations on numbers.
 
 8. [Image Slider](./image-slider): An image slider that displays a set of images with navigation buttons.
 

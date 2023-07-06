@@ -1,0 +1,55 @@
+.task-manager {
+  width: 300px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f5f5f5;
+}
+
+.task-manager h1 {
+  text-align: center;
+}
+
+.task-manager input[type="text"] {
+  width: 90%;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.task-manager button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  background-color: #3498db;
+  color: #fff;
+  cursor: pointer;
+}
+.task-manager li button{
+  width: auto;
+}
+
+.task-manager ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.task-manager li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  margin-bottom: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #fff;
+}
+
+.task-manager li.completed {
+  background-color: #e0e0e0;
+  text-decoration: line-through;
+}
